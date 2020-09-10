@@ -129,6 +129,10 @@ html{
 }
 @media(max-width:479px){
 
+    .bgimg{
+        height: 700px;
+    }
+
     .hearderset{
         padding-top: 300px;
         box-sizing: border-box;
